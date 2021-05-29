@@ -1,0 +1,22 @@
+.List {
+  display: flex;
+  box-shadow: 0px 3px 7px 0px rgba(112, 112, 112, 0.2);
+}
+
+.ListItem {
+  // outline: 1px solid red;
+  font-size: 20px;
+  padding: 5px 10px;
+}
+
+.ListItem:not(:last-child) {
+  margin-right: 10px;
+}
+
+.Navlink {
+  color: #2a2a2a;
+}
+
+.active {
+  color: palevioletred;
+}
