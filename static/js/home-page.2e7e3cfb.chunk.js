@@ -1,0 +1,2 @@
+(this["webpackJsonppract-may29"]=this["webpackJsonppract-may29"]||[]).push([[1],{122:function(t,a,c){"use strict";c.r(a);c(0);var e=c(1);a.default=function(){return Object(e.jsx)("div",{children:"HomePage"})}}}]);
+//# sourceMappingURL=home-page.2e7e3cfb.chunk.js.map
